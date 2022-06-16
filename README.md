@@ -8,3 +8,4 @@ I am glad if this is somehow useful to you.
 
 - [Pricing-Vanilla-Options](https://github.com/CCardeliquio/Financial-Engineering/blob/main/Pricing-Vanilla-Options.ipynb)
 - [Synthetic-Data](https://github.com/CCardeliquio/Financial-Engineering/blob/main/Synthetic-Data.ipynb)
+- [Up-and-Out-Call](https://github.com/CCardeliquio/Financial-Engineering/blob/main/Up-and-Out-Call.ipynb)
